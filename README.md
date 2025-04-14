@@ -1,8 +1,4 @@
-# 📱 Mobil Proje
-
-<div align="center">
-  <img src="assets/icon.png" alt="Proje Logo" width="200"/>
-</div>
+# 📱 Kocaeli İzmit Toplu Taşıma için Ulaşım Mobil Uygulaması
 
 ## 📋 Proje Hakkında
 
