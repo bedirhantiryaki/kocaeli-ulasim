@@ -120,20 +120,3 @@ git push origin feature/yeniOzellik
   <img src="https://img.shields.io/badge/Google_Maps-4285F4?style=for-the-badge&logo=google-maps&logoColor=white" alt="Google Maps"/>
 </div>
 
-## 📝 Lisans
-
-Bu proje 0BSD lisansı altında lisanslanmıştır. Detaylar için [LICENSE](LICENSE) dosyasına bakabilirsiniz.
-
-## 🤝 İletişim
-
-Sorularınız veya önerileriniz için:
-
-- 📧 Email: [email adresiniz]
-- 💬 Issues: [GitHub Issues](https://github.com/kullanici/proje/issues)
-
-## 🙏 Teşekkürler
-
-Bu projeye katkıda bulunan herkese teşekkürler! Özel teşekkürler:
-
-- [Katkıda Bulunan 1]
-- [Katkıda Bulunan 2]
